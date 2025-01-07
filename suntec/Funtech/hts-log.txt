@@ -1,0 +1,141 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Jan 2025 11:10:38 at https://funtechinnovation.com/zh-hant/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://funtechinnovation.com/zh-hant/ -O1 "D:\HTTrack_website\Funtech_website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:11:14	Warning: 	can not create directory to D:/HTTrack_website/Funtech_website/funtechinnovation.com/zh-hant/華厚股份有限公司成為宏智科創在台代理商/index.html.z
+11:16:17	Warning: 	can not create directory to D:/HTTrack_website/Funtech_website/funtechinnovation.com/zh-hant/funtech-innovation品牌新形象/index.html.z
+11:16:37	Error: 	"Error when decompressing" (-1) at link https://funtechinnovation.com/zh-hant/華厚股份有限公司成為宏智科創在台代理商/ (from https://funtechinnovation.com/zh-hant/)
+11:16:47	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=23610
+11:16:47	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=23610 to https://funtechinnovation.com/zh-hant/cart/
+11:16:47	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=39399
+11:16:47	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=39399 to https://funtechinnovation.com/zh-hant/product-portfolio/
+11:16:54	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=27720
+11:16:54	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=27720 to https://funtechinnovation.com/zh-hant/innex/cube/
+11:16:56	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=69107
+11:16:56	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=69107 to https://funtechinnovation.com/zh-hant/innex-conference-cam-c831/
+11:16:58	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22493
+11:16:58	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22493 to https://funtechinnovation.com/zh-hant/innex/webcam-c830/
+11:17:01	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=30627
+11:17:01	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=30627 to https://funtechinnovation.com/zh-hant/innex/webcam-c570/
+11:17:02	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22491
+11:17:02	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22491 to https://funtechinnovation.com/zh-hant/innex/webcam-c470/
+11:17:02	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22487
+11:17:02	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22487 to https://funtechinnovation.com/zh-hant/innex/webcam-c220/
+11:17:02	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=39062
+11:17:02	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=39062 to https://funtechinnovation.com/zh-hant/innex/table-stand/
+11:17:03	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=37138
+11:17:03	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=37138 to https://funtechinnovation.com/zh-hant/innex/visualizer-dc500/
+11:17:04	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22478
+11:17:04	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22478 to https://funtechinnovation.com/zh-hant/ideao/visualizer-dc400/
+11:17:05	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=36882
+11:17:05	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=36882 to https://funtechinnovation.com/zh-hant/innex/connect/
+11:17:05	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/innex/webcam-C570/
+11:17:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://funtechinnovation.com/zh-hant/innex/webcam-C570/ and https://funtechinnovation.com/zh-hant/innex/webcam-c570/
+11:17:05	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/innex/webcam-C570/ (real one is https://funtechinnovation.com/zh-hant/innex/webcam-c570/)
+11:17:06	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=28447
+11:17:06	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=28447 to https://funtechinnovation.com/zh-hant/ideao/hub/
+11:17:07	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=32281
+11:17:07	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=32281 to https://funtechinnovation.com/zh-hant/ideao/pen/
+11:17:07	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=24324
+11:17:07	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=24324 to https://funtechinnovation.com/zh-hant/software/
+11:17:07	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22646
+11:17:07	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22646 to https://funtechinnovation.com/zh-hant/software/reactiv-suite/
+11:17:08	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=24272
+11:17:08	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=24272 to https://funtechinnovation.com/zh-hant/software/innex-studio/
+11:17:08	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=24207
+11:17:08	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=24207 to https://funtechinnovation.com/zh-hant/software/innex-camera-vap-studio/
+11:17:08	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=24903
+11:17:08	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=24903 to https://funtechinnovation.com/zh-hant/software/ideao-visualcam/
+11:17:08	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=27255
+11:17:08	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=27255 to https://funtechinnovation.com/zh-hant/software/ideaocam/
+11:17:08	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22645
+11:17:08	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22645 to https://funtechinnovation.com/zh-hant/solutions/
+11:17:09	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22649
+11:17:09	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22649 to https://funtechinnovation.com/zh-hant/solutions/conference-space/
+11:17:13	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22651
+11:17:13	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22651 to https://funtechinnovation.com/zh-hant/solutions/hybrid-classroom/
+11:17:14	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22657
+11:17:14	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22657 to https://funtechinnovation.com/zh-hant/solutions/work-from-home/
+11:17:15	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22655
+11:17:15	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22655 to https://funtechinnovation.com/zh-hant/solutions/remote-learning/
+11:17:15	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22653
+11:17:15	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22653 to https://funtechinnovation.com/zh-hant/solutions/online-coaching/
+11:17:16	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=25029
+11:17:16	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=25029 to https://funtechinnovation.com/zh-hant/solutions/digital-table/
+11:17:16	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22659
+11:17:16	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22659 to https://funtechinnovation.com/zh-hant/support/
+11:17:17	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22473
+11:17:17	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22473 to https://funtechinnovation.com/zh-hant/faq/
+11:17:17	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/downloads/https://funtechinnovation.com/zh-hant/downloads/
+11:17:17	Warning: 	Redirected link is identical because of 'URL Hack' option: https://funtechinnovation.com/zh-hant/downloads/https://funtechinnovation.com/zh-hant/downloads/ and https://funtechinnovation.com/zh-hant/downloads/https:/funtechinnovation.com/zh-hant/downloads/
+11:17:17	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/downloads/https://funtechinnovation.com/zh-hant/downloads/ to https://funtechinnovation.com/zh-hant/downloads/https:/funtechinnovation.com/zh-hant/downloads/
+11:17:17	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22456
+11:17:17	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22456 to https://funtechinnovation.com/zh-hant/downloads/
+11:17:17	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=36833
+11:17:17	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=36833 to https://funtechinnovation.com/zh-hant/testimonials/
+11:17:22	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=40645
+11:17:22	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=40645 to https://funtechinnovation.com/zh-hant/press-release-infocomm-2023/
+11:17:23	Error: 	"Error when decompressing" (-1) at link https://funtechinnovation.com/zh-hant/funtech-innovation品牌新形象/ (from https://funtechinnovation.com/zh-hant/press-release-infocomm-2023/)
+11:17:31	Error: 	"Not Found" (404) at link https://funtechinnovation.com/zh-hant/wp-json/wp/v2/users/6 (from https://funtechinnovation.com/zh-hant/author/joanna/)
+11:18:04	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=36486
+11:18:04	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=36486 to https://funtechinnovation.com/zh-hant/ise-2023/
+11:18:06	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22449
+11:18:06	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22449 to https://funtechinnovation.com/zh-hant/about-us/
+11:18:10	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=40745
+11:18:10	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=40745 to https://funtechinnovation.com/zh-hant/technology-partners/
+11:18:11	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=39517
+11:18:11	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=39517 to https://funtechinnovation.com/zh-hant/innex/cm-series/
+11:18:11	Error: 	"Not Found" (404) at link https://funtechinnovation.com/wp-content/uploads/2021/04/C830_lifestyle_1-æ·è²-compressed.jpg (from https://funtechinnovation.com/wp-content/uploads/elementor/css/post-22493.css?ver=1731728809)
+11:18:11	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=6
+11:18:11	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=6 to https://funtechinnovation.com/zh-hant/shop/
+11:18:11	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22484
+11:18:11	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22484 to https://funtechinnovation.com/zh-hant/innex/
+11:18:12	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=36659
+11:18:12	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=36659 to https://funtechinnovation.com/zh-hant/testimonials/mark-hunter/
+11:18:12	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=28880
+11:18:12	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=28880 to https://funtechinnovation.com/zh-hant/fti-partners-with-fujifilm-business-innovation-asia-pacific-to-elevate-office-communication-experience/
+11:18:13	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=28679
+11:18:13	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=28679 to https://funtechinnovation.com/zh-hant/fti-announces-a-strategic-alliance-partnership-with-corporate-connection-2/
+11:18:14	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/author/joanna/page/1/
+11:18:14	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/author/joanna/page/1/ to https://funtechinnovation.com/zh-hant/author/joanna/
+11:18:14	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=25120
+11:18:14	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=25120 to https://funtechinnovation.com/zh-hant/fti-announces-jule-limoli-and-michael-festa-as-board-advisors/
+11:18:14	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=27262
+11:18:14	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=27262 to https://funtechinnovation.com/zh-hant/fti-becomes-a-barco-clickshare-alliance-partner/
+11:18:15	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=27265
+11:18:15	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=27265 to https://funtechinnovation.com/zh-hant/fti-delivers-a-keynote-speech-at-intelbca2021/
+11:18:16	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=23226
+11:18:16	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=23226 to https://funtechinnovation.com/zh-hant/fti-supports-rural-education-in-taiwan-with-chengzhi-educational-foundation/
+11:18:17	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=23212
+11:18:17	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=23212 to https://funtechinnovation.com/zh-hant/fti-setups-new-branch-fun-technology-innovation-usa-inc/
+11:18:17	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22503
+11:18:17	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22503 to https://funtechinnovation.com/zh-hant/fti-cooperates-with-bilab-to-develop-martech-project/
+11:18:18	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22506
+11:18:18	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22506 to https://funtechinnovation.com/zh-hant/fti-announces-avanindra-utukuri-as-board-advisor-and-chief-technology-consultant/
+11:18:18	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22508
+11:18:18	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22508 to https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office1r-2/
+11:18:19	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office1r-2/ (real one is https://funtechinnovation.com/wp-content/uploads/2021/07/PR-office1R.jpeg)
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office2-2/
+11:18:19	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office2-2/ (real one is https://funtechinnovation.com/wp-content/uploads/2021/07/PR-office2.jpg)
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office3-2/
+11:18:19	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office3-2/ (real one is https://funtechinnovation.com/wp-content/uploads/2021/07/PR-office3.jpg)
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office4r-2/
+11:18:19	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office4r-2/ (real one is https://funtechinnovation.com/wp-content/uploads/2021/07/PR-office4R.jpeg)
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/office-5r-2/
+11:18:19	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/office-5r-2/ (real one is https://funtechinnovation.com/wp-content/uploads/2021/07/office-5R-scaled.jpeg)
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office6r-2/
+11:18:19	Warning: 	Warning moved treated for https://funtechinnovation.com/zh-hant/fun-technology-innovation-moves-into-new-office-in-new-taipei/pr-office6r-2/ (real one is https://funtechinnovation.com/wp-content/uploads/2021/07/PR-office6R.jpg)
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22510
+11:18:19	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22510 to https://funtechinnovation.com/zh-hant/fti-and-vizetto-announce-an-alliance-partnership/
+11:18:19	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/solutions/reactiv-suite/
+11:18:19	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/solutions/reactiv-suite/ to https://funtechinnovation.com/zh-hant/software/reactiv-suite/
+11:18:20	Warning: 	Moved Permanently for https://funtechinnovation.com/zh-hant/?p=22476
+11:18:20	Warning: 	File has moved from https://funtechinnovation.com/zh-hant/?p=22476 to https://funtechinnovation.com/zh-hant/ideao/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 42 seconds : 1160 links scanned, 1094 files written (142977715 bytes overall) [118113556 bytes received at 255657 bytes/sec], 31282683 bytes transferred using HTTP compression in 420 files, ratio 18%, 30.5 requests per connection
+(4 errors, 126 warnings, 0 messages)
